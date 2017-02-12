@@ -1,3 +1,5 @@
 .idea/
 __pycache__/
 tests/
+dist/
+khl_team.egg-info/

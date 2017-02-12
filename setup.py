@@ -12,7 +12,7 @@ def read(file):
 
 
 setup(
-    name='khl-team',
+    name='khl_team',
     version=khl_team.__version__,
     packages=['khl_team'],
     url='https://github.com/artcom-net/khl-team',
