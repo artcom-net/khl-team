@@ -1,6 +1,6 @@
 KHL teams data interface
 ========================
-This package is the interface to the KHL teams data. Data are parsed from the resource `championat.com <https://www.championat.com/>`_.
+This package is the interface to the KHL teams data.
 
 Available data:
 
