@@ -3,3 +3,6 @@ __pycache__/
 tests/
 dist/
 khl_team.egg-info/
+venv/
+khl-team.sublime-project
+khl-team.sublime-workspace
